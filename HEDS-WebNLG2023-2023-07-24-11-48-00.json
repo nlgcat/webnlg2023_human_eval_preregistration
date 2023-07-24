@@ -1,0 +1,1478 @@
+{
+    "heds-criteria-criterion-response_elicitation-response_aggregation": {
+        "data": {
+            "21. Fluency": "The mean of the reponse values will be computed.",
+            "16b.i. Absence of Omissions": "The proportion of \"Yes\" values will be computed as the mean of the response values where a response of \"No\" will be treated as a numeric value of 0.0, and a response of \"Yes\" as 1.0.",
+            "16b.ii. Absence of Additions": "The proportion of \"Yes\" values will be computed as the mean of the response values where a response of \"No\" will be treated as a numeric value of 0.0, and a response of \"Yes\" as 1.0.",
+            "38a. Absence of unnecessary repetition (content)": "The proportion of \"Yes\" values will be computed as the mean of the response values where a response of \"No\" will be treated as a numeric value of 0.0, and a response of \"Yes\" as 1.0."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-1": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-affiliation": {
+        "data": {
+            "": "University of Aberdeen"
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-name": {
+        "data": {
+            "": "Craig Thomson"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-1": {
+        "data": {
+            "21. Fluency": true,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "1. Form of output",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. experts"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-10": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-2": {
+        "data": {
+            "21. Fluency": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.i. Absence of Omissions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.i. Absence of Omissions": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-affiliation": {
+        "data": {
+            "": "ADAPT / Dublin City Universiy"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-7": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-5": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-description": {
+        "data": {
+            "": "Participants are professional translators recruited from a paid service.  They are native speakers of the output language, with strong English."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluation carried out by evaluators at a place of their own choosing, e.g. online, using a paper form, etc."
+        }
+    },
+    "heds-ethics-review_body": {
+        "data": {
+            "": "No"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-effect_size_method": {
+        "data": {
+            "21. Fluency": "We will carry out four univariate ANOVAs with System as the fixed factor, and Fluency (1–5 ratings), Omission (Yes/No assessments), Addition (Yes/No assessments), and Repetition (Yes/No assessments) as the dependent variables each in one of the ANOVAs. We will report F-ratios and their statistical significance, and the homogeneous subsets of systems as determined by a post-hoc Tukey HSD analysis. The results from the latter will be reported, alongside the mean assessment values, in tables where systems whose scores are not significantly different (at the .05 level) share a letter.\n\nIn addition we will carry out factorial multivariate ANOVAs with system, evaluator and WebNLG category as the fixed factors and Fluency, Omission, Addition and Repetition as the dependent variables. We will report any significant effects of factors on dependent variables, and any significant interactions between factors. We will perform post-hoc Tukey’s HSD tests to determine significant pairwise differences. We will also carry out follow-up factorial multivariate ANOVAs leaving out factors that did not display a statistically significant effect on the dependent variables.\n\nWe will also report Pearson and Spearman correlations with probabilities of statistical significance, between individual Fluency, Omission, Addition and Repetition assessments.",
+            "16b.i. Absence of Omissions": "We will carry out four univariate ANOVAs with System as the fixed factor, and Fluency (1–5 ratings), Omission (Yes/No assessments), Addition (Yes/No assessments), and Repetition (Yes/No assessments) as the dependent variables each in one of the ANOVAs. We will report F-ratios and their statistical significance, and the homogeneous subsets of systems as determined by a post-hoc Tukey HSD analysis. The results from the latter will be reported, alongside the mean assessment values, in tables where systems whose scores are not significantly different (at the .05 level) share a letter.\n\nIn addition we will carry out factorial multivariate ANOVAs with system, evaluator and WebNLG category as the fixed factors and Fluency, Omission, Addition and Repetition as the dependent variables. We will report any significant effects of factors on dependent variables, and any significant interactions between factors. We will perform post-hoc Tukey’s HSD tests to determine significant pairwise differences. We will also carry out follow-up factorial multivariate ANOVAs leaving out factors that did not display a statistically significant effect on the dependent variables.\n\nWe will also report Pearson and Spearman correlations with probabilities of statistical significance, between individual Fluency, Omission, Addition and Repetition assessments.",
+            "38a. Absence of unnecessary repetition (content)": "We will carry out four univariate ANOVAs with System as the fixed factor, and Fluency (1–5 ratings), Omission (Yes/No assessments), Addition (Yes/No assessments), and Repetition (Yes/No assessments) as the dependent variables each in one of the ANOVAs. We will report F-ratios and their statistical significance, and the homogeneous subsets of systems as determined by a post-hoc Tukey HSD analysis. The results from the latter will be reported, alongside the mean assessment values, in tables where systems whose scores are not significantly different (at the .05 level) share a letter.\n\nIn addition we will carry out factorial multivariate ANOVAs with system, evaluator and WebNLG category as the fixed factors and Fluency, Omission, Addition and Repetition as the dependent variables. We will report any significant effects of factors on dependent variables, and any significant interactions between factors. We will perform post-hoc Tukey’s HSD tests to determine significant pairwise differences. We will also carry out follow-up factorial multivariate ANOVAs leaving out factors that did not display a statistically significant effect on the dependent variables.\n\nWe will also report Pearson and Spearman correlations with probabilities of statistical significance, between individual Fluency, Omission, Addition and Repetition assessments.",
+            "16b.ii. Absence of Additions": "We will carry out four univariate ANOVAs with System as the fixed factor, and Fluency (1–5 ratings), Omission (Yes/No assessments), Addition (Yes/No assessments), and Repetition (Yes/No assessments) as the dependent variables each in one of the ANOVAs. We will report F-ratios and their statistical significance, and the homogeneous subsets of systems as determined by a post-hoc Tukey HSD analysis. The results from the latter will be reported, alongside the mean assessment values, in tables where systems whose scores are not significantly different (at the .05 level) share a letter.\n\nIn addition we will carry out factorial multivariate ANOVAs with system, evaluator and WebNLG category as the fixed factors and Fluency, Omission, Addition and Repetition as the dependent variables. We will report any significant effects of factors on dependent variables, and any significant interactions between factors. We will perform post-hoc Tukey’s HSD tests to determine significant pairwise differences. We will also carry out follow-up factorial multivariate ANOVAs leaving out factors that did not display a statistically significant effect on the dependent variables.\n\nWe will also report Pearson and Spearman correlations with probabilities of statistical significance, between individual Fluency, Omission, Addition and Repetition assessments."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-1": {
+        "data": {
+            "21. Fluency": true,
+            "16b.i. Absence of Omissions": true,
+            "38a. Absence of unnecessary repetition (content)": true,
+            "16b.iv. Substitutions": true,
+            "16b.ii. Absence of Additions": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "1. Intrinsic",
+            "16b.i. Absence of Omissions": "1. Intrinsic",
+            "38a. Absence of unnecessary repetition (content)": "1. Intrinsic",
+            "16b.iv. Substitutions": "1. Intrinsic",
+            "16b.ii. Absence of Additions": "1. Intrinsic"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-other_text": {
+        "data": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-other_text": {
+        "data": {
+            "21. Fluency": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.i. Absence of Omissions": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-description": {
+        "data": {
+            "": "Paid professional translators."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-number_of_system_outputs": {
+        "data": {
+            "": "Each language has the following number of systems being evaluated [Irish: 5, Maltese: 4, Russian: 4, Welsh: 4], with one of the \"systems\" being a human-authored topline in each case.  There are 100 outputs evaluated per system, therefore the number of system outputs per output language is [Irish: 500, Maltese: 400, Russian: 400, Welsh: 400].  The total number of outputs is therefore 1,700."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-1": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-2": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": ""
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-1": {
+        "data": {
+            "21. Fluency": true,
+            "16b.i. Absence of Omissions": true,
+            "38a. Absence of unnecessary repetition (content)": true,
+            "16b.iv. Substitutions": true,
+            "16b.ii. Absence of Additions": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "1. Absolute",
+            "16b.i. Absence of Omissions": "1. Absolute",
+            "38a. Absence of unnecessary repetition (content)": "1. Absolute",
+            "16b.iv. Substitutions": "1. Absolute",
+            "16b.ii. Absence of Additions": "1. Absolute"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluators are required to be native speakers of the language they evaluate."
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-9": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-2": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-quality_type-1": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": true,
+            "16b.ii. Absence of Additions": true,
+            "16b.iv. Substitutions": true,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "1. Correctness",
+            "16b.ii. Absence of Additions": "1. Correctness",
+            "16b.iv. Substitutions": "1. Correctness",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-task_description": {
+        "data": {
+            "21. Fluency": "N/A",
+            "38a. Absence of unnecessary repetition (content)": "N/A",
+            "16b.iv. Substitutions": "N/A",
+            "16b.ii. Absence of Additions": "N/A",
+            "16b.i. Absence of Omissions": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_name": {
+        "data": {
+            "21. Fluency": "Fluency",
+            "16b.i. Absence of Omissions": "N/A",
+            "16b.ii. Absence of Additions": "N/A",
+            "16b.iv. Substitutions": "N/A",
+            "38a. Absence of unnecessary repetition (content)": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-3": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-7": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement_score": {
+        "data": {
+            "21. Fluency": "Not computed for pre-registration but will be at a later stage.",
+            "16b.i. Absence of Omissions": "Not computed for pre-registration but will be at a later stage.",
+            "16b.ii. Absence of Additions": "Not computed for pre-registration but will be at a later stage.",
+            "16b.iv. Substitutions": "N/A",
+            "38a. Absence of unnecessary repetition (content)": "Not computed for pre-registration but will be at a later stage."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-2": {
+        "data": {
+            "21. Fluency": true,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "2. direct quality estimation",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-system-tasks-9": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "9. data-to-text generation"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. evaluators do not include any of the authors"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_place_of_choosing": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-system-output_languages-135": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "135. Russian"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-link": {
+        "data": {
+            "": "https://github.com/nlgcat/webnlg2023_human_eval_preregistration"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion": {
+        "data": {},
+        "control": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "38a. Absence of unnecessary repetition (content)": true
+        },
+        "text": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-other_text": {
+        "data": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-3": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. by an automatic random process but using stratified sampling over given properties"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-8": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-3": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-3": {
+        "data": {
+            "21. Fluency": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.i. Absence of Omissions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.i. Absence of Omissions": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-2": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": true,
+            "16b.ii. Absence of Additions": true,
+            "16b.iv. Substitutions": true,
+            "38a. Absence of unnecessary repetition (content)": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "2. Content of output",
+            "16b.ii. Absence of Additions": "2. Content of output",
+            "16b.iv. Substitutions": "2. Content of output",
+            "38a. Absence of unnecessary repetition (content)": "2. Content of output"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-number_of_evaluators": {
+        "data": {
+            "": "17"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-1": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": true,
+            "16b.ii. Absence of Additions": true,
+            "16b.iv. Substitutions": true,
+            "38a. Absence of unnecessary repetition (content)": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "1. (dis)agreement with quality statement",
+            "16b.ii. Absence of Additions": "1. (dis)agreement with quality statement",
+            "16b.iv. Substitutions": "1. (dis)agreement with quality statement",
+            "38a. Absence of unnecessary repetition (content)": "1. (dis)agreement with quality statement"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-other_text": {
+        "data": {
+            "21. Fluency": "5",
+            "16b.i. Absence of Omissions": "2",
+            "38a. Absence of unnecessary repetition (content)": "2",
+            "16b.iv. Substitutions": "2",
+            "16b.ii. Absence of Additions": "2"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-3": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "3. neither of the above (please describe)"
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-method": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-4": {
+        "data": {
+            "21. Fluency": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.i. Absence of Omissions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.i. Absence of Omissions": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-characteristics": {
+        "data": {
+            "": "Participants confirm prior to starting work that they; (i) are professional translators, (ii) are native speakers of the output language they are evaluating, and (iii) they have advanced proficiency in English.  They also describe their regional dialect of the output language."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-1": {
+        "data": {
+            "21. Fluency": true,
+            "38a. Absence of unnecessary repetition (content)": true,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": true,
+            "16b.i. Absence of Omissions": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "1. yes",
+            "38a. Absence of unnecessary repetition (content)": "1. yes",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": "1. yes",
+            "16b.i. Absence of Omissions": "1. yes"
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-2": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": true,
+            "16b.ii. Absence of Additions": true,
+            "16b.iv. Substitutions": true,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "2. Quality of output relative to the input",
+            "16b.ii. Absence of Additions": "2. Quality of output relative to the input",
+            "16b.iv. Substitutions": "2. Quality of output relative to the input",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-ethics-impact_assessments": {
+        "data": {
+            "": "No"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-1": {
+        "data": {
+            "21. Fluency": true,
+            "16b.i. Absence of Omissions": true,
+            "38a. Absence of unnecessary repetition (content)": true,
+            "16b.iv. Substitutions": true,
+            "16b.ii. Absence of Additions": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "1. Discrete",
+            "16b.i. Absence of Omissions": "1. Discrete",
+            "38a. Absence of unnecessary repetition (content)": "1. Discrete",
+            "16b.iv. Substitutions": "1. Discrete",
+            "16b.ii. Absence of Additions": "1. Discrete"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_definiiton": {
+        "data": {
+            "21. Fluency": "Highly fluent text 'flows well' and is well connected and free from disfluencies.",
+            "16b.i. Absence of Omissions": "N/A",
+            "16b.iv. Substitutions": "N/A",
+            "16b.ii. Absence of Additions": "N/A",
+            "38a. Absence of unnecessary repetition (content)": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-5": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-3": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluators are told they can ask any questions during/after receiving initial training/instructions, and before the start of the evaluation"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-other_text": {
+        "data": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": ""
+        },
+        "control": {}
+    },
+    "heds-system-output_types-6": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "6. text: multiple sentences"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-output_languages-75": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "75. Irish"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-5": {
+        "data": {
+            "21. Fluency": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.i. Absence of Omissions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.i. Absence of Omissions": ""
+        }
+    },
+    "heds-system-output_languages-104": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "104. Maltese"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-8": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. evaluators are told they can ask any questions during the evaluation"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-6": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement_score": {
+        "data": {
+            "21. Fluency": "0.22",
+            "38a. Absence of unnecessary repetition (content)": "0.81",
+            "16b.iv. Substitutions": "N/A",
+            "16b.ii. Absence of Additions": "0.81",
+            "16b.i. Absence of Omissions": "0.91"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-output_languages-22": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-verbatim_question": {
+        "data": {
+            "21. Fluency": "Fluency assessment: please rate the text shown in terms of Fluency on a scale of 1 to 5 where 5 is the highest (best) score. Highly fluent text 'flows well' and is well connected and free from disfluencies.",
+            "16b.i. Absence of Omissions": "1. Looking at each line of the Structured Representation in turn, does the Text express all the information in all lines in full (allow synonyms and aggregation)?",
+            "16b.ii. Absence of Additions": "2. Looking at the Text, is all of its content expressed in the Structured Representation? (Allow duplication of content.)",
+            "16b.iv. Substitutions": "3. If the answer to both 1 and 2 is No, is there any missing and added content that could in combination count as a substitution? (leave blank if N/A.)",
+            "38a. Absence of unnecessary repetition (content)": "3.  Is the Text free from unnecessary repetition of content?"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. not previously known to authors"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. paid (monetary compensation)"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-2": {
+        "data": {
+            "21. Fluency": true,
+            "16b.i. Absence of Omissions": true,
+            "38a. Absence of unnecessary repetition (content)": true,
+            "16b.iv. Substitutions": true,
+            "16b.ii. Absence of Additions": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "2. Subjective",
+            "16b.i. Absence of Omissions": "2. Subjective",
+            "38a. Absence of unnecessary repetition (content)": "2. Subjective",
+            "16b.iv. Substitutions": "2. Subjective",
+            "16b.ii. Absence of Additions": "2. Subjective"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-4": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-other_text": {
+        "data": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-2": {
+        "data": {
+            "21. Fluency": true,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "2. Goodness",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": "2. Goodness"
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-5": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-other_text": {
+        "data": {
+            "": "Evaluators will be free to complete the work in their own time between 25th and 30th July 2023.  Responses will be collected by researchers for processing on August 5th 2023."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-2": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-name": {
+        "data": {
+            "": "Anya Belz"
+        },
+        "control": {}
+    },
+    "heds-ethics-special_category_data": {
+        "data": {
+            "": "No"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-6": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-input_languages-41": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "41. English"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-list_or_range": {
+        "data": {
+            "21. Fluency": "1-5",
+            "16b.i. Absence of Omissions": "Yes, No",
+            "38a. Absence of unnecessary repetition (content)": "Yes, No",
+            "16b.iv. Substitutions": "Yes, No",
+            "16b.ii. Absence of Additions": "Yes, No"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-recruitment_method": {
+        "data": {
+            "": "Evaluators are recruited via an agency providing professional translation services.  An information sheet describing the work was sent to the agency (included in the resources linked in Q1.2.1)."
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-email": {
+        "data": {
+            "": "anya.belz@adaptcentre.ie"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-output_languages-177": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "177. Welsh"
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-training_practice": {
+        "data": {
+            "": "Evaluators first complete a pre-evaluation questionnaire which includes confirmation that they meet the criteria for participation.  They then read an instruction document that describes in detail what they should do, and includes a worked example.  Finally, they complete a set of 10 English language practice items that must be returned to the researchers before the participant is assigned their main batch of 100 items."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-3": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-paper_and_resources-paper-link": {
+        "data": {
+            "": "for preregistration"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-other_text": {
+        "data": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": ""
+        },
+        "control": {}
+    },
+    "heds-ethics-personal_data": {
+        "data": {
+            "": "No"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-2": {
+        "data": {
+            "21. Fluency": true,
+            "16b.i. Absence of Omissions": true,
+            "16b.ii. Absence of Additions": true,
+            "16b.iv. Substitutions": true,
+            "38a. Absence of unnecessary repetition (content)": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "2. no",
+            "16b.i. Absence of Omissions": "2. no",
+            "16b.ii. Absence of Additions": "2. no",
+            "16b.iv. Substitutions": "2. no",
+            "38a. Absence of unnecessary repetition (content)": "2. no"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-other_text": {
+        "data": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-collection_method": {
+        "data": {
+            "": "A spreadsheet on Google Sheets will be used, the template can be found on the GitHub link given in Question 1.2.1.  Participants are given a spreadsheet containing only the evaluation items they need to evaluate.  On the spreadsheet, for each item, participants record their responses for each quality criterion.  Form validation is enabled such that participants can only enter responses as defined for the instrument in Section 4.3.  The form validation includes colour highlighting to show the validity of each input cell, as well as a text note above each cell that indicates the same in case any participant has colour vision deficiency."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-other_text": {
+        "data": {
+            "21. Fluency": "A pilot study was carried out with 5 participants each evaluating 10 English language items.  Participants were recruited from among the WebNLG organisers, although not those who were directly involved in designing the instructions and evaluation form.  Inter-annotator agreement was then calculated as 0.22 using Fleiss Kappa.  Since the main experiment will only have one annotator per item, no agreement will be calculated for it.",
+            "38a. Absence of unnecessary repetition (content)": "A pilot study was carried out with 5 participants each evaluating 10 English language items.  Participants were recruited from among the WebNLG organisers, although not those who were directly involved in designing the instructions and evaluation form.  Inter-annotator agreement was then calculated as 0.81 using Fleiss Kappa.  Since the main experiment will only have one annotator per item, no agreement will be calculated for it.",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": "A pilot study was carried out with 5 participants each evaluating 10 English language items.  Participants were recruited from among the WebNLG organisers, although not those who were directly involved in designing the instructions and evaluation form.  Inter-annotator agreement was then calculated as 0.81 using Fleiss Kappa.  Since the main experiment will only have one annotator per item, no agreement will be calculated for it.",
+            "16b.i. Absence of Omissions": "A pilot study was carried out with 5 participants each evaluating 10 English language items.  Participants were recruited from among the WebNLG organisers, although not those who were directly involved in designing the instructions and evaluation form.  Inter-annotator agreement was then calculated as 0.91 using Fleiss Kappa.  Since the main experiment will only have one annotator per item, no agreement will be calculated for it."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-description": {
+        "data": {
+            "": "Evaluators are shown a spreadsheet where for each of their assigned system outputs, they select a valid response option from a list.  The questions and response options are detailed for each criterion in Section 4."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-1": {
+        "data": {
+            "21. Fluency": true,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "1. Quality of output in its own right",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": "1. Quality of output in its own right"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. yes"
+        }
+    },
+    "heds-system-output_types-5": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "5. text: sentence"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-other_text": {
+        "data": {
+            "": "https://aspredicted.org but the link will not be known until after this HEDS has been created.  The preregistration on https://aspredicted.org will link to this document, not the other way round."
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-resources-links": {
+        "data": {
+            "": "Resources can be found on GitHub, https://github.com/nlgcat/webnlg2023_human_eval_preregistration"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-other_text": {
+        "data": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-value": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-3": {
+        "data": {
+            "21. Fluency": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.i. Absence of Omissions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.i. Absence of Omissions": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-2": {
+        "data": {
+            "21. Fluency": false,
+            "38a. Absence of unnecessary repetition (content)": false,
+            "16b.iv. Substitutions": true,
+            "16b.ii. Absence of Additions": false,
+            "16b.i. Absence of Omissions": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "38a. Absence of unnecessary repetition (content)": "",
+            "16b.iv. Substitutions": "2. no",
+            "16b.ii. Absence of Additions": "",
+            "16b.i. Absence of Omissions": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-3": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-paper_and_resources-paper-experiment_identification": {
+        "data": {
+            "": "Preregistration of WebNLG2023 Human Evaluation"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-other_text": {
+        "data": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-script": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-1": {
+        "data": {
+            "21. Fluency": true,
+            "38a. Absence of unnecessary repetition (content)": true,
+            "16b.iv. Substitutions": true,
+            "16b.ii. Absence of Additions": true,
+            "16b.i. Absence of Omissions": true
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "1. Multiple-choice options",
+            "38a. Absence of unnecessary repetition (content)": "1. Multiple-choice options",
+            "16b.iv. Substitutions": "1. Multiple-choice options",
+            "16b.ii. Absence of Additions": "1. Multiple-choice options",
+            "16b.i. Absence of Omissions": "1. Multiple-choice options"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-11": {
+        "data": {
+            "21. Fluency": false,
+            "16b.i. Absence of Omissions": false,
+            "16b.ii. Absence of Additions": false,
+            "16b.iv. Substitutions": false,
+            "38a. Absence of unnecessary repetition (content)": false
+        },
+        "control": {},
+        "text": {
+            "21. Fluency": "",
+            "16b.i. Absence of Omissions": "",
+            "16b.ii. Absence of Additions": "",
+            "16b.iv. Substitutions": "",
+            "38a. Absence of unnecessary repetition (content)": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-email": {
+        "data": {
+            "": "c.thomson@abdn.ac.uk; c.thomson.nlp@gmail.com"
+        },
+        "control": {}
+    },
+    "heds-system-input_types-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. raw/structured data"
+        }
+    }
+}
