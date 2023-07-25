@@ -2,7 +2,7 @@
 This repository contains all of the pre-registration resources for the WebNLG 2023 Human Evaluation.  Due to a formatting issue when exporting Google Sheets to Microsoft Excel, all spreadsheets are stored on Google Drive ([here](https://drive.google.com/drive/folders/1zIqOM45SAkZWPLQ4_ejqdpThmVrAbJu5?usp=sharing)).  Within this GitHub repository, placeholder .txt files have been included to mark where a spreadsheet should be.  The spreadsheets can be found via the above Google Drive link, which follows the same directory structure.
 
 ## Pre-registration
-The experiment has been pre-registered on [ASPREDICTED](https://aspredicted.org).  The registration number is [TODO](#).
+The experiment has been pre-registered on [ASPREDICTED](https://aspredicted.org](https://aspredicted.org/lookup.php).  The registration number is 139263 and the first registered author name is Thomson.
 
 ## Quality Criteria Definitions
 We use the [QCET Taxonomy spreadsheet](https://docs.google.com/spreadsheets/d/1OekYUSgu7YvG-9IOWK2S5RB9-sJKtHc6aHJZQLw7H7o/edit?usp=drive_link) which is an extended version of Taxonomy created by [Howcroft et al. 2020](https://aclanthology.org/2020.inlg-1.23)
